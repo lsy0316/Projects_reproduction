@@ -191,24 +191,7 @@ Jittor 版本优势：推理效率更高，在某些配置下可获得 1.3x~1.5x
 7. 记录并分析模型在不同数据集上的实验指标
 8. 为后续伪装目标检测方向的模型改进与论文研究提供实验基础
 
-## 11. Citation
-
-如果本项目对你的学习或研究有帮助，请引用原论文：
-
-```bibtex
-@article{fan2021concealed,
-  author={Fan, Deng-Ping and Ji, Ge-Peng and Cheng, Ming-Ming and Shao, Ling},
-  title={Concealed Object Detection},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  volume={44},
-  number={10},
-  pages={6024-6042},
-  doi={10.1109/TPAMI.2021.3085766}
-}
-```
-
-## 12. Acknowledgement
+## 11. Acknowledgement
 
 本项目参考了 SINet-V2 官方开源代码，仅用于个人学习、论文复现和科研训练。
 
@@ -216,7 +199,7 @@ Jittor 版本优势：推理效率更高，在某些配置下可获得 1.3x~1.5x
 
 官方仓库：https://github.com/GewelsJI/SINet-V2
 
-## 13. License
+## 12. License
 
 本仓库仅用于学习与科研交流。
 
